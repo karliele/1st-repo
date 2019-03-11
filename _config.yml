@@ -1,20 +1,10 @@
 theme: jekyll-theme-merlot
-<html>
- 
-  <title>First website</title>
-  
-   <body>
-    
-    <h1>This is my first github page</h1>
-  
-  </body>
-  
-      <style>
-            body {
-              background-color:green;
-              color:#fff;
-              text-align:center;
-            }
-      </style>
-  
-</html>
+highlighter: rouge
+name: Karlie Le
+description: An amateur approach to programming
+url: https://karliele.github.io/Karlie-Le/
+lsi: false
+
+exclude: [README.md, MathAIR'19.01.[1].md]
+
+permalink: pretty
