@@ -1,13 +1,13 @@
 # Setup
 title: Karlie's Blog       Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
+description:      An amateur approach to programming
 baseurl:      ""
 paginate:  4   1
 locale:       "en"
 
 # About/contact
 author:
-  name:       Author name
+  name:       Karlie Le
   url:     https://karliele.github.io/ 
 
 # Gems
