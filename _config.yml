@@ -5,6 +5,4 @@ description: An amateur approach to programming
 url: https://karliele.github.io/Karlie-Le/
 lsi: false
 
-exclude: [README.md]
-
 permalink: pretty
