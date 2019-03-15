@@ -32,5 +32,3 @@ _Thì V là kgoong gian vector, và v ∈ V là một vector.
 #### Mô tả 1 người (chiều cao, cân nặng, tuổi...)
 => Dùng 1 không gian tọa độ **(coordinate space)**: 
 
-V = R
-
