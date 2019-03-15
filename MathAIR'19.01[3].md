@@ -31,4 +31,3 @@ _Thì V là kgoong gian vector, và v ∈ V là một vector.
 ### VÍ DỤ:
 #### Mô tả 1 người (chiều cao, cân nặng, tuổi...)
 => Dùng 1 không gian tọa độ **(coordinate space)**: 
-
