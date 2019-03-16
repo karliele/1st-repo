@@ -24,10 +24,11 @@
 
 2) Nhân vector với 1 số: a.v ∈ V, a ∈ R, v ∈ V
 
-_Thì V là kgoong gian vector, và v ∈ V là một vector.
+_Thì V là không gian vector, và v ∈ V là một vector.
 
 **Tổng quát: Nếu ta tịnh tiến hoặc co giãn các vector trong V thì chúng vẫn thuộc v**
 
 ### VÍ DỤ:
 #### Mô tả 1 người (chiều cao, cân nặng, tuổi...)
 => Dùng 1 không gian tọa độ **(coordinate space)**: 
+$R^{n}$
